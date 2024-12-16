@@ -19,7 +19,7 @@
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP, MySQL
-- **Development Tools**: XAMPP, Visual Studio Code
+
 
 ---
 
